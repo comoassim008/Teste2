@@ -1,0 +1,16 @@
+{
+    "token": "Token Do Seu Bot",
+    "prefix": "-",
+    "canal": "Canal Que O Bot Vai Gerar",
+    "cooldown": "60",
+    
+    "subtitulo": "Yui99 Gerador",
+    "color": "#836FFF",
+    "banner": "https://cdn.discordapp.com/attachments/1074131686859743262/1088961445351403620/standard.gif",
+    "thumbnail": "https://cdn.discordapp.com/attachments/1074131686859743262/1088962038593765446/pinterest__1679699159706_736x736.jpg",
+    
+    "command": {
+    "notfound_message": true,
+    "error_message": true
+    }
+}
